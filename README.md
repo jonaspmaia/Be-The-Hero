@@ -1,7 +1,7 @@
 # Be-The-Hero
 
-Projeto criado na Semana OmniStack, onde o intuito foi criar uma aplicação para ongs postarem seus casos na web e seus heróis através do app mobile ajudassem com doações.
+Projeto da Semana Omnistack 11.0 com o nome de Be The Hero, uma aplicação com intuito de conectar pessoas interessadas em ajudar ONGS.
 
-Tecnologias utilizadas : Node, React, React Native, Visual studio code, Expo, MySql, HTML e CSS
+Tecnologias utilizadas : Node.js, ReactJS, React Native, Visual code, Expo, SQLite, HTML e CSS
 
 Linguagem de programação: JavaScript
